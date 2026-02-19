@@ -1,4 +1,6 @@
 # 🛡️ Oracle-CLI: Local AI Auto-Debugger
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A high-performance, privacy-first Python wrapper that intercepts terminal errors and provides instant, offline fixes using local LLMs.
 
